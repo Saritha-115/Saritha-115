@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)]
+![MasterHead](https://i.pinimg.com/originals/83/b8/09/83b809857acd41a7bad4935b4734f9fc.gif)
 <h1 align="center">Hi 👋, I'm Saritha Indeera Themiyadasa</h1>
 <h3 align="center">A passionate web developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*xNQKHj5vR7w9AcY_bDKYYw.gif">
