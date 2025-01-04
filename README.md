@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sthemiyadasa" target="blank"><img src="https://img.shields.io/twitter/follow/sthemiyadasa?logo=twitter&style=for-the-badge" alt="sthemiyadasa" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning & working on **MERN** stack
 
 - 👯 I’m looking to collaborate on **Web development**
 
